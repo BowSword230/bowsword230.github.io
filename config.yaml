@@ -179,7 +179,7 @@ params:
           enable: true
           name: "View the project"
           url: "https://www.facebook.com/LeBron/?locale=fr_FR"
-        content: "Voici mon Facebook."
+    content: "Voici mon Facebook."
           - Lead backend developer for a product.
           - Created a frontend design for a product.
           
