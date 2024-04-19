@@ -123,11 +123,11 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/hero.svg
+    intro: "Bonjour, suis je "
+    title: "Lebron James"
+    subtitle: "Voici mon site "
+    content: "Passionner par le BasketBall depuis jeune, j'excelle dans ce domaine et j'ai ete le premier a depasser les 40 000 points en une carriere "
+    image: /images/LeBron_James_2.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -150,8 +150,8 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
-    image: "/images/me.png"
+    title: "a propos de moi"
+    image: "/images/lebron-james.png"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
 
