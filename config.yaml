@@ -179,7 +179,7 @@ params:
           enable: true
           name: "View the project"
           url: "https://www.facebook.com/LeBron/?locale=fr_FR"
-          content: "TestContent"
+        content: "TestContent"
           
   # Education
   education:
